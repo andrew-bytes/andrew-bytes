@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**andrew-bytes/andrew-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  welcome to my little corner of the internet
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🌱 curious by nature <br>
+  ✨ learning as i go <br>
+  🌍 exploring ideas, quietly <br>
+</p>
+
+---
+
+<p align="center">
+  sometimes i build things <br>
+  sometimes i break them <br>
+  mostly i observe
+</p>
+
+---
+
+<p align="center">
+  📫 you can find me around
+</p>
+
+---
+
+<p align="center">
+  <i>
+    less noise. <br>
+    more intent.
+  </i>
+</p>
